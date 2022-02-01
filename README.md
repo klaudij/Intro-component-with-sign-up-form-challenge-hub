@@ -4,8 +4,8 @@ This is a solution to the [Intro component with sign-up challenge on Frontend Me
 
 ## Screenshots
 
-<img src="images/screen1.png" width="200px" alt="#"> <img src="images/screen3.png" width="200px" alt="#">
-<img src="images/screen2.png" width="400px" alt="#">
+<img src="images/mob.png" width="200px" alt="#"> <img src="images/error.png" width="200px" alt="#">
+<img src="images/desk.png" width="500px" alt="#">
 
 
 
